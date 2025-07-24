@@ -1,4 +1,4 @@
-The Github Repository for Trilytics 2025, by team: z-fighters.
+The Github Repository for Trilytics 2025, by team: z_fighters.
 
 Contributors:
 Shyam Banerjee
